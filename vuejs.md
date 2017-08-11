@@ -5,6 +5,10 @@
 
 -let's take a look at an example from slpnow
 
-``<div class="loading-error" v-if="resources.error" v-cloak>
+```
+<div class="loading-error" v-if="resources.error" v-cloak>
     <p class="message">There was an error loading materials. Please try again by reloading the page.</p>
-  </div>``
+</div>
+```
+
+
