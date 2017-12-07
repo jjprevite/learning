@@ -9,6 +9,12 @@
 
 ## Notes
 
+#### December 6th, 2017
+- showed Sean my presentation. 
+- figured out I'm probably going to need a database...
+- also learned how the back-end works
+
+
 #### December 4th, 2017
 - created a presentation for the app idea
 - created a presentation for logos
