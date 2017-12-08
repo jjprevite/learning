@@ -10,6 +10,9 @@
 
 ## Progress
 
+#### December 7th, 2017
+- worked on Web Development Fundamentals
+
 #### December 3rd, 2017
 - worked on Web Development Fundamentals
 - finished Unit 1 Lesson 3: "CSS The Right Way"
