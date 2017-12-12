@@ -10,6 +10,9 @@
 
 ## Progress
 
+#### December 12th, 2017
+- prepping for a workshop that I'm leading on Thursday for Thinkful on this [Call Forwarding with Node.js and Express] app(https://www.twilio.com/docs/tutorials/call-forwarding-nodejs-and-express#about-this-application)
+
 #### December 7th, 2017
 - worked on Web Development Fundamentals
 
