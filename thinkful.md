@@ -10,6 +10,9 @@
 
 ## Progress
 
+#### December 13th, 2017
+- finally got the tutorial working! :D Thanks to Twilio's awesome support!
+
 #### December 12th, 2017
 - prepping for a workshop that I'm leading on Thursday for Thinkful on this [Call Forwarding with Node.js and Express] app(https://www.twilio.com/docs/tutorials/call-forwarding-nodejs-and-express#about-this-application)
 - tried taking another stab at it for a half hour, no luck
