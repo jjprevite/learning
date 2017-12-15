@@ -10,6 +10,10 @@
 
 ## Progress
 
+#### December 14th, 2017
+- big milestone, led a workshop on call forwarding with Node, Express and Twilio: bit.ly/call-fwding-tutorial
+- it was awesome, I was able to use my teaching skills + coding skills to share knowledge and teach others! I think I found my true calling. 
+
 #### December 13th, 2017
 - finally got the tutorial working! :D Thanks to Twilio's awesome support!
 
