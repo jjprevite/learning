@@ -10,6 +10,9 @@
 
 ## Progress
 
+#### December 16th, 2017
+- started the "Learn React" section on Thinkful. Finished "Primer on ES6".
+
 #### December 14th, 2017
 - big milestone, led a workshop on call forwarding with Node, Express and Twilio: bit.ly/call-fwding-tutorial
 - it was awesome, I was able to use my teaching skills + coding skills to share knowledge and teach others! I think I found my true calling. 
