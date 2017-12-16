@@ -3,11 +3,15 @@
 ## General Tasks I need to Complete
 - [X] Build 2nd iteration of company logo
 - [X] Build 3rd iteration of company logo
-- [ ] Deliver logo
+- [X] Deliver logo
 - [X] Build wireframes for my app
 - [ ] Present wireframes
 
 ## Notes
+
+#### December 15th, 2017
+- researched which tutorial I'm going to use to learn the basics of building a MERN CRUD app.
+- here's the [main one](https://medium.com/@bryantheastronaut/react-getting-started-the-mern-stack-tutorial-feat-es6-de1a2886be50) and the [secondary one](https://hashnode.com/post/react-tutorial-using-mern-stack-ciiyus9m700qqge53mer0isxz)
 
 #### December 6th, 2017
 - showed Sean my presentation. 
