@@ -1,7 +1,7 @@
 # What I'm learning
 The purpose of this repo is track everything I'm learning related to programming. I will write average 1 commit per day, which will be tracked via [Beeminder](https://www.beeminder.com/jjprevite/code). This means, if I know I won't be able to study one day, I can study twice the day before and still be on track technically.
 
-## 100 Days of Code - Round 3 - Thurs. Nove
+## 100 Days of Code - Round 3 - Thurs. November 30th, 2017
 In an effort to join the community and stay accountable, I am joining the [#100DaysOfCode](http://100daysofcode.com/index.html) movement and committing to: 
 1. averaging 30 minutes of studying/coding every day
 2. posting on Twitter every day I study/code
