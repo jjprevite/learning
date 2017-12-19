@@ -10,6 +10,10 @@
 
 ## Progress
 
+#### December 17th, 2017
+- worked on Web Development Fundamentals
+- finished up to Lesson 4.4: "The Float Property"
+
 #### December 16th, 2017
 - started the "Learn React" section on Thinkful. Finished "Primer on ES6".
 
