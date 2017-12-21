@@ -10,6 +10,10 @@
 
 ## Progress
 
+#### December 18th, 2017
+- worked on Web Development Fundamentals
+- working on creating v1 of "Greg's List" for a CSS Layout challenge, here's my [code](https://repl.it/@jprevite/CSSLayoutExamples)
+
 #### December 17th, 2017
 - worked on Web Development Fundamentals
 - finished up to Lesson 4.4: "The Float Property"
