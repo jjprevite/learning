@@ -5,9 +5,15 @@
 - [X] Build 3rd iteration of company logo
 - [X] Deliver logo
 - [X] Build wireframes for my app
-- [ ] Present wireframes
+- [X] Present wireframes
+- [ ] Build MERN app skeleton
 
 ## Notes
+
+#### December 20th, 2017
+- using the [repo](https://github.com/bryantheastronaut/mernCommentBox) from tutorial instead of Medium article.
+- stopped at 'integrating the database'
+
 
 #### December 15th, 2017
 - researched which tutorial I'm going to use to learn the basics of building a MERN CRUD app.
