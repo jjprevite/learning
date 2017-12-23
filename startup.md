@@ -10,6 +10,11 @@
 
 ## Notes
 
+#### December 22nd, 2017
+- continued working through tutorial. Created a database on MLab. 
+- found an error in the tutorial and submitted a PR.
+- stopped at "Getting and posting to the database"
+
 #### December 20th, 2017
 - using the [repo](https://github.com/bryantheastronaut/mernCommentBox) from tutorial instead of Medium article.
 - stopped at 'integrating the database'
