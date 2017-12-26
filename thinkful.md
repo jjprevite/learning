@@ -10,6 +10,10 @@
 
 ## Progress
 
+#### December 26th, 2017
+- completed Lesson 4 of Unit 2 in Web Development Fundamentals.
+- now at 22% completion for WDF.
+
 #### December 18th, 2017
 - worked on Web Development Fundamentals
 - working on creating v1 of "Greg's List" for a CSS Layout challenge, here's my [code](https://repl.it/@jprevite/CSSLayoutExamples)
