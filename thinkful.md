@@ -10,6 +10,10 @@
 
 ## Progress
 
+#### December 27th, 2017
+- completed Lesson 5 of Unit 2 in Web Development Fundamentals.
+- now at 28% completion for WDF.
+
 #### December 26th, 2017
 - completed Lesson 4 of Unit 2 in Web Development Fundamentals.
 - now at 22% completion for WDF.
