@@ -9,6 +9,9 @@
 - [X] Build MERN app skeleton
 
 ## Notes
+#### December 27th, 2017
+- worked on updating the form to have all the fields needed for the apps.
+
 #### December 23rd, 2017
 - felt like a Javascript ninja today.
 - one of the methods on my app.js wasn't working but I figure it out through debugging. It was because the first 'app' in the database didn't have all the properties because I change the schema after adding it to the db. This caused a lot of 'undefined' properties. I deleted this app and then added one that had all the properties and it worked! I'll have to create a better solution to handle the scenario where a user doesn't add in all properties. (#note-to-self)
