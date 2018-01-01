@@ -9,6 +9,10 @@
 - [X] Build MERN app skeleton
 
 ## Notes
+
+#### December 31st, 2017
+- worked on app. Spent about an hour or so learning how to use React Router. I was successful but the the form is now broken and making post requests to the database is not working correctly. Felt frustrated but will push through it tomorrow.
+
 #### December 27th, 2017
 - worked on updating the form to have all the fields needed for the apps.
 
