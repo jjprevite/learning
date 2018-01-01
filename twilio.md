@@ -10,6 +10,10 @@
 
 ## Notes
 
+#### December 31st, 2017
+- continued working on 'Message Received?' mission. Didn't make much progress though.
+- Finished first mission in the Lookup section.
+
 #### December 26th, 2017
 - completed the "Project: To-do Bot"
 - I totally thought I couldn't finish today but I pushed through, figured it out and made it work how I wanted to. 250XP
