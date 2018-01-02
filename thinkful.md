@@ -9,6 +9,9 @@
 - [ ] Prep course for Data Science Bootcamp
 
 ## Progress
+#### January 2nd, 2018
+- worked on app, fixed delete request
+- tried to fix Redirect, still not working.
 
 #### December 27th, 2017
 - completed Lesson 5 of Unit 2 in Web Development Fundamentals.
