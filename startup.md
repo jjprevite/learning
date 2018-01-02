@@ -10,6 +10,12 @@
 
 ## Notes
 
+#### January 1st, 2018
+- made a lot of progress today! Successfully added React Router
+- moved form to it's on page /form
+- form is now successfully POSTing to database
+- struggling with the redirect after form submission
+
 #### December 31st, 2017
 - worked on app. Spent about an hour or so learning how to use React Router. I was successful but the the form is now broken and making post requests to the database is not working correctly. Felt frustrated but will push through it tomorrow.
 
