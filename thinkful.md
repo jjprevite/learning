@@ -10,8 +10,7 @@
 
 ## Progress
 #### January 2nd, 2018
-- worked on app, fixed delete request
-- tried to fix Redirect, still not working.
+- worked on React curriculum. Feeling like I'm finally putting the pieces together on how everything works (like props and components)
 
 #### December 27th, 2017
 - completed Lesson 5 of Unit 2 in Web Development Fundamentals.
