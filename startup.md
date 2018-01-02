@@ -7,8 +7,12 @@
 - [X] Build wireframes for my app
 - [X] Present wireframes
 - [X] Build MERN app skeleton
+- [ ] Build logic for basic app (need to define user stories)
 
 ## Notes
+#### January 2nd, 2018
+- worked on app, fixed delete request
+- tried to fix Redirect, still not working.
 
 #### January 1st, 2018
 - made a lot of progress today! Successfully added React Router
