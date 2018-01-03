@@ -10,6 +10,10 @@
 
 ## Notes
 
+#### January 2nd, 2018
+- looked at code for 'Message Received?' mission. Still stuck.
+- howver, completed this [tutorial](https://www.twilio.com/docs/guides/how-to-confirm-delivery-in-node-js) and learned how to use the statusCallback parameter. Now I just have to figure out how to use it in my other app.
+
 #### December 31st, 2017
 - continued working on 'Message Received?' mission. Didn't make much progress though.
 - Finished first mission in the Lookup section.
