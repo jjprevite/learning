@@ -9,6 +9,10 @@
 - [ ] Prep course for Data Science Bootcamp
 
 ## Progress
+#### January 3rd, 2018
+- helped out at a meetup tonight teaching people Javascript fundamentals
+- worked on the WDF, on the section about responsive web design. 
+
 #### January 2nd, 2018
 - worked on React curriculum. Feeling like I'm finally putting the pieces together on how everything works (like props and components)
 
