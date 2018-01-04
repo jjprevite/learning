@@ -10,6 +10,10 @@
 - [ ] Build logic for basic app (need to define user stories)
 
 ## Notes
+#### January 4th, 2018
+- worked on app, now displaying app names instead of author names
+- can't update app name though, need to fix.
+
 #### January 2nd, 2018
 - worked on app, fixed delete request
 - tried to fix Redirect, still not working.
