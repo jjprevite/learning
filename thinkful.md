@@ -9,6 +9,9 @@
 - [ ] Prep course for Data Science Bootcamp
 
 ## Progress
+#### January 5th, 2018
+- read a little tiny bit on responsive grid systems.
+
 #### January 3rd, 2018
 - helped out at a meetup tonight teaching people Javascript fundamentals
 - worked on the WDF, on the section about responsive web design. 
