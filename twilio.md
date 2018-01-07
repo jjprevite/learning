@@ -10,6 +10,9 @@
 
 ## Notes
 
+#### January 6th, 2018
+- made some progress on Twilio Quest. Still getting stuck with statusCallback but learning more.
+
 #### January 2nd, 2018
 - looked at code for 'Message Received?' mission. Still stuck.
 - howver, completed this [tutorial](https://www.twilio.com/docs/guides/how-to-confirm-delivery-in-node-js) and learned how to use the statusCallback parameter. Now I just have to figure out how to use it in my other app.
