@@ -9,6 +9,8 @@
 - [ ] Join the Impact Corps!
 
 ## Notes
+#### January 8th, 2018
+- finally figured out how to use the statusCallback parameter for the 'Message Delivered?' quest - big win! Now working on deleting a message.
 
 #### January 6th, 2018
 - made some progress on Twilio Quest. Still getting stuck with statusCallback but learning more.
