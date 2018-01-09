@@ -11,6 +11,7 @@
 ## Notes
 #### January 8th, 2018
 - finally figured out how to use the statusCallback parameter for the 'Message Delivered?' quest - big win! Now working on deleting a message.
+- I swear I have everything set up correctly but it doesn't seem to be verifying my message deletion. Hmm..
 
 #### January 6th, 2018
 - made some progress on Twilio Quest. Still getting stuck with statusCallback but learning more.
