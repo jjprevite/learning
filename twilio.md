@@ -9,6 +9,9 @@
 - [ ] Join the Impact Corps!
 
 ## Notes
+#### January 12th, 2018
+- still worked on 'Time Travel' mission. Wrote a function to get the most recent message, then another function to delete it, after another message is sent, and to wait 15 seconds. Doesn't pass - we'll see what I can do tomorrow.
+
 #### January 8th, 2018
 - finally figured out how to use the statusCallback parameter for the 'Message Delivered?' quest - big win! Now working on deleting a message.
 - I swear I have everything set up correctly but it doesn't seem to be verifying my message deletion. Hmm..
