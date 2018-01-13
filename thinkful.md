@@ -9,6 +9,9 @@
 - [ ] Prep course for Data Science Bootcamp
 
 ## Progress
+#### January 13th, 2018
+- read for five minutes about React props.
+
 #### January 5th, 2018
 - read a little tiny bit on responsive grid systems.
 
