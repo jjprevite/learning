@@ -9,6 +9,9 @@
 - [ ] Join the Impact Corps!
 
 ## Notes
+#### January 14th, 2018
+- completed the "Unlimited Powerrr: Copilot Scale" mission! :D
+
 #### January 12th, 2018
 - still worked on 'Time Travel' mission. Wrote a function to get the most recent message, then another function to delete it, after another message is sent, and to wait 15 seconds. Doesn't pass - we'll see what I can do tomorrow.
 
