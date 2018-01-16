@@ -9,6 +9,11 @@
 - [ ] Prep course for Data Science Bootcamp
 
 ## Progress
+#### January 15th, 2018
+- started 'the Server-side programming in Javascript' section.
+- I learned about 'promises' - these were created in ES6 as an alternative to 'callback hell.' They can be resolved or rejected and they allow you to chain functions together (if I understood correctly).
+- this allows you to do one thing, and then do another.
+
 #### January 13th, 2018
 - read for five minutes about React props.
 
