@@ -9,6 +9,10 @@
 - [ ] Join the Impact Corps!
 
 ## Notes
+#### January 18th, 2018
+- checked code for deleting a message, 'Time Tunnel' mission
+- Jen and a teammate helped debug it and it looks like there's a bug in the verifier - woo for bug spotting!
+
 #### January 14th, 2018
 - completed the "Unlimited Powerrr: Copilot Scale" mission! :D
 - completed two bonuses at the very end
