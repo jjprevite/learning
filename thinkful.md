@@ -9,6 +9,9 @@
 - [ ] Prep course for Data Science Bootcamp
 
 ## Progress
+#### January 18th, 2018
+- made some progress on WDF. Finished the [CSS Grid Challenge](https://repl.it/@jprevite/CSS-responsive-grid-challenge)
+
 #### January 15th, 2018
 - started 'the Server-side programming in Javascript' section.
 - I learned about 'promises' - these were created in ES6 as an alternative to 'callback hell.' They can be resolved or rejected and they allow you to chain functions together (if I understood correctly).
