@@ -9,6 +9,11 @@
 - [ ] Prep course for Data Science Bootcamp
 
 ## Progress
+#### January 22nd, 2018
+- made good progress on WDF. Finished [Star Wars Trading Card Site](https://github.com/jjprevite/star-wars-trading-card-site)
+- also finished Lesson 1 of Unit 2
+- now at 39% 
+
 #### January 18th, 2018
 - made some progress on WDF. Finished the [CSS Grid Challenge](https://repl.it/@jprevite/CSS-responsive-grid-challenge)
 
