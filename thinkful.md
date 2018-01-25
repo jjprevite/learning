@@ -9,6 +9,10 @@
 - [ ] Prep course for Data Science Bootcamp
 
 ## Progress
+#### January 25th, 2018
+- worked on WDF. Finished lessons 2 and 3.
+- now at 52%
+
 #### January 23rd, 2018
 - worked on WDF. Finished Lesson 2 of Unit 2. 
 - now at 44%
