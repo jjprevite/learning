@@ -9,6 +9,10 @@
 - [ ] Prep course for Data Science Bootcamp
 
 ## Progress
+#### January 31st, 2018
+- worked for a little on WDF. Learned that a "factory function" has a sole purpose of creating an instance of some model
+- now at 64%
+
 #### January 30th, 2018
 - worked on WDF. Currently learning about objects.
 - now at 63%
