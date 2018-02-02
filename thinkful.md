@@ -9,6 +9,10 @@
 - [ ] Prep course for Data Science Bootcamp
 
 ## Progress
+#### February 1st, 2018
+- worked on WDF. Learned about traversing, reviewed jQuery
+- now at 69%
+
 #### January 31st, 2018
 - worked for a little on WDF. Learned that a "factory function" has a sole purpose of creating an instance of some model
 - now at 64%
