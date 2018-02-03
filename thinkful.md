@@ -9,6 +9,10 @@
 - [ ] Prep course for Data Science Bootcamp
 
 ## Progress
+#### February 2nd, 2018
+- worked on WDF. Reviewing jQuery
+- now at 70%
+
 #### February 1st, 2018
 - worked on WDF. Learned about traversing, reviewed jQuery
 - now at 69%
