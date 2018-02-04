@@ -9,6 +9,11 @@
 - [ ] Prep course for Data Science Bootcamp
 
 ## Progress
+#### February 4th, 2018
+- worked on WDF.
+- learning how to break steps into smaller functions, refactorign shopping list.
+- now at 85%
+
 #### February 3rd, 2018
 - worked on WDF.
 - now at 78%. On track to hit my goal this month.
