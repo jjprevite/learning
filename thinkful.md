@@ -9,6 +9,11 @@
 - [ ] Prep course for Data Science Bootcamp
 
 ## Progress
+#### February 3rd, 2018
+- worked on WDF.
+- now at 78%. On track to hit my goal this month.
+- did some research on Gatsby.js - thinking I want to rebuild my portfolio using it. 
+
 #### February 2nd, 2018
 - worked on WDF. Reviewing jQuery
 - now at 70%
