@@ -9,6 +9,14 @@
 - [ ] Prep course for Data Science Bootcamp
 
 ## Progress
+#### February 6th, 22018
+- continued working on Quiz app
+- started writing basic functions
+
+#### February 5th, 2018
+- started working on Quiz app. Gathered content.
+- Sean helped me configure iTerm2 - it looks so cool now!
+
 #### February 4th, 2018
 - worked on WDF.
 - learning how to break steps into smaller functions, refactorign shopping list.
