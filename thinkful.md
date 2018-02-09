@@ -9,6 +9,10 @@
 - [ ] Prep course for Data Science Bootcamp
 
 ## Progress
+#### February 8th, 2018
+- continued working on my quiz app.
+- wrote half of a another function that works. making progress
+
 #### February 7th, 2018
 - continued working on Quiz app- generateQuestionElement function now working.
 
