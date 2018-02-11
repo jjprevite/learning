@@ -9,6 +9,9 @@
 - [ ] Prep course for Data Science Bootcamp
 
 ## Progress
+#### February 9th, 2018
+- didn't get to work on quiz app but freelanced for 5 hours today.
+
 #### February 8th, 2018
 - continued working on my quiz app.
 - wrote half of a another function that works. making progress
