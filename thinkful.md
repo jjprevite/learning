@@ -9,6 +9,10 @@
 - [ ] Prep course for Data Science Bootcamp
 
 ## Progress
+#### February 13th, 2018
+- worked on styles for quiz app.
+- also took JS pre-test for a thing.
+
 #### February 9th, 2018
 - didn't get to work on quiz app but freelanced for 5 hours today.
 
