@@ -9,6 +9,11 @@
 - [ ] Prep course for Data Science Bootcamp
 
 ## Progress
+#### February 15th, 2018
+- helped out at study session for Thinkful 
+- learned part one of the tutorial
+- deployed using surge http://parsimonious-cart.surge.sh/
+
 #### February 13th, 2018
 - worked on styles for quiz app.
 - also took JS pre-test for a thing.
