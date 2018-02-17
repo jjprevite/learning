@@ -9,6 +9,10 @@
 - [ ] Prep course for Data Science Bootcamp
 
 ## Progress
+#### February 16th, 2018
+- worked on Thinkful curriculum - React section
+- feel like I understand stateless components but having difficulties with stateful components, specifically the constructor, the super() and the spread operator {...}
+
 #### February 15th, 2018
 - helped out at study session for Thinkful 
 - learned part one of the tutorial
