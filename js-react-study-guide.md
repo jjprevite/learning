@@ -1,5 +1,5 @@
-# React Study guide 
-This is a study guide for understanding topics related to React. 
+# JavaScript and React Study guide 
+This is a study guide for understanding topics related to JavaScript and React. 
 
 ### What is a class in ES6?
 If we take a look at the (definition by MDN)[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes], it's basically a "special function". Similar to functions in that there are two "components" - class expressions and class declarations. Here's a simple example of a class declaration:
