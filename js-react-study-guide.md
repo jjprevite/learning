@@ -131,3 +131,15 @@ function Image(props) {
   return <img src={props.src} alt={props.alt} />;
 }
 ```
+
+### What's the difference between uncontrolled and controlled components?
+Helpful links for when I decide to answer this...
+- (Uncontrolled components)[https://reactjs.org/docs/uncontrolled-components.html]
+- (Controlled components)[https://reactjs.org/docs/forms.html#controlled-components]
+
+A controlled input for example needs two things:
+ 1. A value which is stored somewhere in the state
+ 2. an `onChange` prop which updates the value in the state when you interact with the input.
+
+### What is the `ref` prop used for in React specifically?
+- (Ref prop)[https://reactjs.org/docs/refs-and-the-dom.html]
