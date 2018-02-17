@@ -87,3 +87,47 @@ function Image(props) {
   return <img src={props.src} alt={props.alt} />;
 }
 ```
+
+### When to use () with the arrow function?
+The other day, I was doing a tutorial in Gatsby.js and confused by one arrow function has () after the => and one another one didn't. I finally found the answer in this article ("ES6 Arrow Functions: The New Fat & Concise Syntax in JavaScript
+Related Topics")[https://www.sitepoint.com/es6-arrow-functions-new-fat-concise-syntax-javascript/].
+
+So if you are using an arrow function to return an expression, then the () are optional. 
+
+
+parameters => expression
+// is equivalent to:
+function (parameters){
+  return expression;
+}
+
+### What's the difference between statements and expressions in JavaScript?
+We'll say almost anything is an expression. It's basically anything that can go in between the `=` and the semicolon. Here are some examples:
+
+```javascript
+var dog = 'Foxy';
+var bark = function() { return: 'Bark bark bark!' };
+var addTwo = x + 2;
+```
+So if you remove the assignment operator (`=`) and everything before it + the semicolon, you get:
+```
+'Foxy'
+function() { return: 'Bark bark bark!' }
+x + 2
+```
+These are considered expressions in JavaScript.
+
+Statements usually perform actions. Loops and 'if statements' are statements.
+
+```javascript
+//first we define an expression.
+const numbers = [0,1,2,3,4];
+
+//then we define a statement which is the loop and then the action of console.log
+for(let i = 0; i < numbers.length; i++){
+  console.log(numbers[i]);
+}
+```
+
+This article explains it really well: (Expressions versus statements in JavaScript)[http://2ality.com/2012/09/expressions-vs-statements.html]
+
