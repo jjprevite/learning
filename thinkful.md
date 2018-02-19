@@ -9,6 +9,10 @@
 - [ ] Prep course for Data Science Bootcamp
 
 ## Progress
+#### February 18th, 2018
+- worked on a component drill for Thinkful
+- read through the React docs.
+
 #### February 17th, 2018
 - continued working on React section of Thinkful curriculum.
 - now at 7%.
