@@ -132,6 +132,12 @@ function Image(props) {
 }
 ```
 
+### What is 'mounting'?
+Specific to React, this is when a component is rendered to the DOM for the first time. It's like when you ride a horse. You mount yourself on the horse, then you're ready to ride.
+
+### What is 'unmounting'?
+Specific to React, when the component is removed from the DOM. Just like getting off the horse - you unmount yourself.
+
 ### What's the difference between uncontrolled and controlled components?
 Helpful links for when I decide to answer this...
 - (Uncontrolled components)[https://reactjs.org/docs/uncontrolled-components.html]
