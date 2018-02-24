@@ -9,6 +9,9 @@
 - [ ] Prep course for Data Science Bootcamp
 
 ## Progress
+#### February 23rd, 2018
+- finished the Gatsby.js tutorial series :D 
+
 #### February 18th, 2018
 - worked on a component drill for Thinkful
 - read through the React docs.
