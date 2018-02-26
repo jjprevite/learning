@@ -126,6 +126,7 @@ console.log(name);
 
 //Here, the key difference is that const means constant. This means you cannot reassign or redeclare a const.
 ```
+Here's a diagram to demonstrate as well: ![diagram of var vs. let. vs. const](https://i.imgur.com/h68C5Wl.png) 
 
 ## React
 
