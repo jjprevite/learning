@@ -33,8 +33,6 @@ for(let i = 0; i < numbers.length; i++){
 
 This article explains it really well: (Expressions versus statements in JavaScript)[http://2ality.com/2012/09/expressions-vs-statements.html]
 
-
-
 ### What is a class in ES6?
 If we take a look at the (definition by MDN)[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes], it's basically a "special function". Similar to functions in that there are two "components" - class expressions and class declarations. Here's a simple example of a class declaration:
 
@@ -74,6 +72,60 @@ Related Topics")[https://www.sitepoint.com/es6-arrow-functions-new-fat-concise-s
 
 So if you are using an arrow function to return an expression, then the () are optional. 
 
+### What's the difference between _var_, _let_, and _const_?
+First, _let_ and _const_ come from ES6. Before, we only had _var_.
+
+Second, all three are used to declare variables. The different is whether or not they can be redeclared and/or reassigned.
+
+With _var_, you can do: 
+
+```javascript
+var name = 'Joe';
+
+console.log(name);
+//console logs Joe
+
+var name = 'John';
+console.log(name);
+//console logs John
+
+//no errors here BUT this means you could accidentally overwrite a variable that's already been declared.
+```
+Using _let_, the same code would look like:
+```javascript
+let name = 'Joe';
+
+console.log(name);
+//console logs Joe
+
+let name = 'John';
+console.log(name);
+//console logs Uncaught SyntaxError: Identifier 'name' has already been declared
+
+//This is good! We want this. It will prevent us from declaring a variable with the same name.
+//But what happens if you do need to change the value of that variable?
+
+//No problem my friend! You can *reassign* it like this 
+name = 'John';
+console.log(name);
+//console logs John
+
+//What's the difference here you ask? With let, we can reassign but we cannot redeclare. Make sure you know the difference.
+```
+
+Lastly, with _const_, it would look like this:
+
+```javascript
+const name = 'Joe';
+console.log(name);
+//console logs Joe
+
+name = 'John';
+console.log(name);
+//logs error SyntaxError: Identifier 'name' has already been declared
+
+//Here, the key difference is that const means constant. This means you cannot reassign or redeclare a const.
+```
 
 ## React
 
