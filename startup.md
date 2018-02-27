@@ -1,15 +1,14 @@
 # Startup -  
 
 ## General Tasks I need to Complete
-- [X] Build 2nd iteration of company logo
-- [X] Build 3rd iteration of company logo
-- [X] Deliver logo
-- [X] Build wireframes for my app
-- [X] Present wireframes
-- [X] Build MERN app skeleton
-- [ ] Build logic for basic app (need to define user stories)
+- finish ISH website
 
 ## Notes
+#### February 26th, 2018
+- currently working on the Contact component.
+- figured out I should be able to use axios to submit form data to db.
+- hoping to use ternary statement
+
 #### January 4th, 2018
 - worked on app, now displaying app names instead of author names
 - can't update app name though, need to fix.
