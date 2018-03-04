@@ -4,6 +4,10 @@
 - finish ISH website
 
 ## Notes
+#### March 3rd, 2018
+- worked on ish website. 
+- created a MailChimp account then added form into website. Need to fix though because you can't edit right now.
+
 #### February 26th, 2018
 - currently working on the Contact component.
 - figured out I should be able to use axios to submit form data to db.
