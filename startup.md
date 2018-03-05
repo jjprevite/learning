@@ -4,6 +4,11 @@
 - finish ISH website
 
 ## Notes
+#### March 4th, 2018
+- worked on ish website.
+- added controlled components to form elements.
+- need to figure out how to submit POST request for form data in background.
+
 #### March 3rd, 2018
 - worked on ish website. 
 - created a MailChimp account then added form into website. Need to fix though because you can't edit right now.
