@@ -126,10 +126,10 @@ store.dispatch(actions.addList('Example list 3'));
 store.dispatch(actions.addCard('Example card 1', 2));
 // Logs out the state, with the list and the card added
 console.log(store.getState());
+```
 
 ### Summary:
 Using Redux, he's the basic flow:
 - create an action
 - handle the action using the reducer
 - trigger it using the store.dispatch method
-```
