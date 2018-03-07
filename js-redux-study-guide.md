@@ -1,9 +1,6 @@
 # Redux Study guide 
 This is a study guide for understanding topics related to Redux. 
 
-## Redux Study Guide
-The purpose of this study guide is to help me understand Redux.
-
 ## Questions
 
 ### What are the two fundamental pieces of Redux?
