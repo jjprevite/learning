@@ -38,6 +38,9 @@ const action = addCard('The content of the card', 4);
 //now when we're ready to create the action, we use a function expression by calling the factory function and passing in two arguments respectively for the `text` and `listIndex`.
 ```
 
+### What are 'action creators'?
+You create them by writing a function that accepts the payload as an argument and returns an object with the type and the payload.
+
 ### What is a 'reducer'?
 A reducer is simply a function that accepts two arguments: the current state and the action to modify the state.
 
@@ -129,7 +132,7 @@ console.log(store.getState());
 ```
 
 ### Summary:
-Using Redux, he's the basic flow:
+Using Redux, here's the basic flow:
 - create an action
 - handle the action using the reducer
 - trigger it using the store.dispatch method
