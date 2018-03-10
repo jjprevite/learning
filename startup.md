@@ -4,6 +4,9 @@
 - finish ISH website
 
 ## Notes
+#### March 9th, 2018
+- tried figuring out a solution for the email submission form. No luck yet.
+
 #### March 4th, 2018
 - worked on ish website.
 - added controlled components to form elements.
