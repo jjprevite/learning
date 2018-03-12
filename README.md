@@ -16,3 +16,4 @@ Throughout these next 100 Days these are the projects I will be focusing on (the
 - [Thinkful Curriculum](https://www.thinkful.com/) -an online career accelerator. They also host local meetups. I TA for the [Phoenix one](https://www.meetup.com/Thinkful-Phoenix/). 
 - [TwilioQuest](https://www.twilio.com/quest/missions) -an online adventure/game for learning how to use Twilio's API.
 - [freeCodeCamp](freecodecamp.org) -I'm close to finishing the Front End Certificate so I hope I can within the 100 days.
+- [ES6 Javascript: The Complete Developer's Guide](https://www.udemy.com/javascript-es6-tutorial/) - a course by Stephen Grider on Udemy. 
