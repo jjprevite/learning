@@ -4,6 +4,9 @@
 - finish ISH website
 
 ## Notes
+#### March 11th, 2018
+- made some good progress on ISH website.
+
 #### March 9th, 2018
 - tried figuring out a solution for the email submission form. No luck yet.
 
