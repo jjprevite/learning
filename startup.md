@@ -4,6 +4,11 @@
 - finish ISH website
 
 ## Notes
+### March 17th, 2018
+- worked on ISH website again.
+- added cards and added footer to bottom. 
+- website still looks super bland. Needs a lot of style/design work.
+
 #### March 11th, 2018
 - made some good progress on ISH website.
 
