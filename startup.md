@@ -4,6 +4,13 @@
 - finish ISH website
 
 ## Notes
+
+### March 18th, 2018
+- worked on ISH website.
+- finished the footer today.
+- still need to finish the form.
+- need to spend some time fixing up the design.
+
 ### March 17th, 2018
 - worked on ISH website again.
 - added cards and added footer to bottom. 
