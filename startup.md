@@ -4,6 +4,10 @@
 - finish ISH website
 
 ## Notes
+### March 20th, 2018
+- worked on ISH website. Added in contact component
+- found a good tutorial on using the MailChimp API with React. 
+- started creating ISH website design in Figma
 
 ### March 18th, 2018
 - worked on ISH website.
