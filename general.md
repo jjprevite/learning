@@ -4,6 +4,9 @@ This is a log of everything I'm learning on a regular basis (related to coding).
 ## Daily Logs
 Below, you'll see exactly what I've learned each day.
 
+### March 29th, 2018
+- worked on ish today. Made some good progress.
+
 ### March 28th, 2018
 - wrote a ton of jQuery at work.
 
