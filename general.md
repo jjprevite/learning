@@ -4,6 +4,9 @@ This is a log of everything I'm learning on a regular basis (related to coding).
 ## Daily Logs
 Below, you'll see exactly what I've learned each day.
 
+### March 31st, 2018
+- watched videos from ES6 course on Udemy.
+
 ### March 29th, 2018
 - worked on ish today. Made some good progress.
 
