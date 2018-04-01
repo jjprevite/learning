@@ -8,6 +8,7 @@ Below, you'll see exactly what I've learned each day.
 - watched videos from ES6 course on Udemy.
 - made some good progress.
 - also signed up to be a #nodejs mentee.
+- worked on ish website. 
 
 ### March 29th, 2018
 - worked on ish today. Made some good progress.
