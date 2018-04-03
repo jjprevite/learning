@@ -4,6 +4,9 @@ This is a log of everything I'm learning on a regular basis (related to coding).
 ## Daily Logs
 Below, you'll see exactly what I've learned each day.
 
+### April 2nd, 2018
+- finished the ish website :D 
+
 ### April 1st, 2018
 - made some really good progress on ish website :D 
 - also posted to freeCodeCamp's Forum.
