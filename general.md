@@ -6,6 +6,7 @@ Below, you'll see exactly what I've learned each day.
 
 ### April 2nd, 2018
 - finished the ish website :D 
+- learned about CSS.
 
 ### April 1st, 2018
 - made some really good progress on ish website :D 
