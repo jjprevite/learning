@@ -4,6 +4,9 @@ This is a log of everything I'm learning on a regular basis (related to coding).
 ## Daily Logs
 Below, you'll see exactly what I've learned each day.
 
+### April 10th, 2018
+- worked on ES6 course on Udemy, currently at 66%
+
 ### April 6th, 2018
 - I made some good progress learning about CORS, jQuery, ajax requests and using express for routes.
 - also did some of ES6 course on Udemy.
