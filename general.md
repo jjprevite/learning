@@ -4,6 +4,10 @@ This is a log of everything I'm learning on a regular basis (related to coding).
 ## Daily Logs
 Below, you'll see exactly what I've learned each day.
 
+### April 14th, 2018
+- work on 100DaysOfCode Twitter/Twilio project
+- get Firebase Auth working
+
 ### April 12th, 2018
 - learned about Snippets in Chrome
 - wrote some of article for CodeNewbie tips
